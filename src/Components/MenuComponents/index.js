@@ -12,7 +12,7 @@ class MenuComponents extends Component {
                 {
                     context=>(
                         <Navbar bg="light" expand="lg" style={{marginBottom:'10px'}}>
-                            <Navbar.Brand href="/">MyShop</Navbar.Brand>
+                            <Navbar.Brand href="/">PhoneAr</Navbar.Brand>
                             <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                             <Navbar.Collapse id="basic-navbar-nav">
                                 <Nav className="mr-auto">
